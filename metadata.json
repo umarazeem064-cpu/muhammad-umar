@@ -1,0 +1,6 @@
+{
+  "name": "The Pizza Shop - Paragon City Lahore",
+  "description": "Official online ordering, table reservation, and live delivery tracking for The Pizza Shop in Paragon City, Barki Road, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
